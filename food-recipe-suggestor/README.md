@@ -1,8 +1,4 @@
-# React + Vite
+# FOOD - RECIPE SUGGESTOR
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+We built the food receipe suggestor utilizing react, groq gemini llm for chatbot and food suggestions based on the available ingredients.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
